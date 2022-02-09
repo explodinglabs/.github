@@ -1,1 +1,1 @@
-Exploding Labs creates SaaS apps and open source libraries.
+Exploding Labs creates commercial SaaS apps as well as open source libraries.
