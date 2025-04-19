@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  Exploding Labs both commercial and open-source projects.
+  Exploding Labs commercial and open-source projects.
 </p>
