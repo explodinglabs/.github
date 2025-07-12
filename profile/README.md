@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Logo" height="300" src="https://github.com/explodinglabs/.github/blob/main/profile/logo.png?raw=true&v2" />
+  <img alt="Logo" height="300" src="https://github.com/explodinglabs/.github/blob/main/profile/logo.png?raw=true" />
 </p>
 
 <p align="center">
